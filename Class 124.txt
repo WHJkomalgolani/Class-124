@@ -1,0 +1,6 @@
+So from browser, we can generate Get requests.
+we checked that..Output1 and Output2
+
+To create post requests we need Postman
+
+
